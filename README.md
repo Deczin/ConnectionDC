@@ -26,6 +26,7 @@ Arquivo `config.yml`:
 discord:
   token: "SEU_TOKEN_DO_BOT"
 
+```
 ---
 
 [Servidor de Mine](https://discord.gg/huq8bwmS5F)
