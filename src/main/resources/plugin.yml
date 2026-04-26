@@ -1,0 +1,4 @@
+name: ConnectionDC
+version: 1.0
+main: me.deczin.connectiondc.ConnectionDC
+api-version: 1.21
