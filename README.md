@@ -29,4 +29,4 @@ discord:
 ```
 ---
 
-[Servidor de Mine](https://discord.gg/huq8bwmS5F)
+Servidor de Mine: https://discord.gg/huq8bwmS5F
