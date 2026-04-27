@@ -29,4 +29,4 @@ discord:
 ```
 ---
 
-Servidor de Mine: https://discord.gg/huq8bwmS5F
+Servidor para tirar dúvidas: https://discord.gg/huq8bwmS5F
