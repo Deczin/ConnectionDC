@@ -18,6 +18,14 @@ O **ConnectionDC** é um plugin que centraliza a conexão com o Discord usando J
 
 ---
 
+## ⚠ Requisitos
+
+- Java 21+
+- PaperMC API 1.21+
+- Maven para build do plugin
+
+---
+
 ## ⚙️ Configuração
 
 Arquivo `config.yml`:
@@ -29,4 +37,7 @@ discord:
 ```
 ---
 
-Servidor para tirar dúvidas: https://discord.gg/huq8bwmS5F
+## Servidor para tirar dúvidas
+
+- https://discord.gg/huq8bwmS5F
+
