@@ -1,4 +1,6 @@
 # 🔌 ConnectionDC
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Maven](https://img.shields.io/badge/build-Maven-blue)
 
 Plugin central de integração com Discord para servidores Minecraft (Paper).
 
